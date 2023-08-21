@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renny</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" src="https://cdn.dribbble.com/users/291221/screenshots/1208616/learn.gif" alt="header" />
+<img align="center" src="https://thumbs.gfycat.com/DimFlawlessArrowworm-size_restricted.gif" alt="header" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rennygarces&label=Profile%20views&color=0e75b6&style=flat" alt="rennygarces" /> </p>
 
