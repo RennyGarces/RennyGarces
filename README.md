@@ -7,9 +7,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://rennygarces-portofolio.vercel.app//](https://rennygarces-portofolio.vercel.app//)
-
-- 📫 How to reach me **https://rennygarces-portofolio.vercel.app/**
+- 👨‍💻 All of my projects are available at [https://rennygarces.github.io/rennygarces-portofolio///](https://rennygarces.github.io/rennygarces-portofolio///)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
